@@ -9,6 +9,9 @@
  - created redux store
  - connected it to react project
  - created a testSlice and put it to redux store.
+ - installed Lucide-react
+ - Reconfigure folder structure
+ - Header
 
 
 
