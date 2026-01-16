@@ -12,6 +12,8 @@
  - installed Lucide-react
  - Reconfigure folder structure
  - Header
+ - change the Header according to my need
+ - we just made the header, will work on the hamburger later
 
 
 
